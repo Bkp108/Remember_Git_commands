@@ -1,10 +1,3 @@
-Bilkul bhai! 🔥 Main tujhe ek **full detailed `README.md` file** bana deta hoon jisme sari **basic Git & GitHub commands** step-by-step likhi hongi — beginner friendly 💯
-
----
-
-## 📘 README.md (Git & GitHub Basics Cheat Sheet)
-
-```markdown
 # 🚀 Git & GitHub Basic Commands Cheat Sheet
 
 ## 🔧 1. Initial Setup (One-Time)
